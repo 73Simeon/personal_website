@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Simeon <br> Web, App developper and Designer "
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Senior Web Developer specializing in front end and back end development. Experienced with all stages of the development cycle for dynamic web projects. Well -versed in numerous programming languages including HTML5, PHP OOP, JavaScript, Python with pandas, matplotib and numpy, MySQL. Strong background in Project management and customer relations.Desktop and mobile App developer with **Kivy module**"
   button:
     enable : true
     label : "know more"
@@ -17,21 +17,28 @@ skill:
   title : "Skills"
   item:
     - title : "Web Design"
-      progress : "90%"
+      progress : "75%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Python programming"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "PhotoShop Illustrator"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
+    - title : "Mobile App with Kivy "
+      progress : "50%"
       color : "#ffbcaa"
-
+      
+    - title : "Data Analization with Python"
+      progress : "70%"
+      color : "#bdecf6"
+      
+    - title : "Microsoft Office"
+      progress : "80%"
+      color : "#bdecf6"
 # experience
 experience:
   enable : true
@@ -54,7 +61,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "Marters in UX Design"
