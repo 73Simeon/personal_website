@@ -2,8 +2,8 @@
 date: "2019-05-12T12:14:34+06:00"
 description: This is meta description.
 draft: false
-image: images/blog/post-5.jpg
-title: Amazon increase income 1.5 Million
+image: images/blog/plat.JPG
+title: Plateau Gaming
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
