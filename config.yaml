@@ -2,7 +2,7 @@ baseURL: https://simeonwebsite.netlify.app/
 languageCode: en-us
 summaryLength: '10'
 theme: kross-hugo
-title: My website
+title: Seymond Website
 params:
   address: Rue n010 secteur n*2 Zakin Koudougou, Burkina Faso
   author: Wend-Benedo Simeon ZONGO
@@ -12,14 +12,14 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &seymond 2021 
+  copyright: Copyright &design 2021 by Simeon ZONGO
   description: This is meta description
   email: zongowsimeon@gmail.com
   google_analytics_id: ''
   home: Home
   logo: ''
   map:
-    enable: yes
+    enable: no
     gmap_api: "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
@@ -57,9 +57,9 @@ menu:
     - URL: blog
       name: Blog
       weight: 2
-    - URL: portfolio
-      name: Portfolio
-      weight: 3
+   # - URL: portfolio
+   #   name: Portfolio
+   #   weight: 3
     - URL: contact
       name: Contact
       weight: 4
