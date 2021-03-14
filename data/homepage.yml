@@ -45,14 +45,14 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Designer During Intership"
+      company : "Yamba Digital Hub"
+      duration : "Jun 2020 - September 2020"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Design Maquette of 'Cheferrie du Faso' website "
+      company : "Yamba Digital Hub"
+      duration : "Jun 2020 - September 2020"
       
     - logo : "images/experience/icon-1.png"
       title : "Senior UI Designer"
@@ -85,14 +85,14 @@ service:
   enable : true
   title : "Services"
   item:
-    - title : "UI Design"
+    - title : "Card Design"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Disign professional Card as (visited, marriage), logo Design, flyer and Video editing (Animation)"
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Concepion Website"
+      icon : "ti-write"
+      content : "Dynamic or Static website developer. Mobile and Desktop App developer with Python (Kyvi)"
       highlighted : true
 
     - title : "Interaction Design"
@@ -129,7 +129,7 @@ testimonial:
 
 # client logo slider
 clients_logo_slider:
-  enable : true
+  enable : false
   item:
     - logo : "images/clients-logo/client-logo-1.png"
       URL : "http://examplesite.com"
