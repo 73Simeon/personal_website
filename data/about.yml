@@ -21,8 +21,8 @@ team:
   enable: true
   title : "My Team"
   team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
+    - title : "ZONGO Simeon"
+      image : "images/team/Imga4.png"
       designation : "Project Manager"
       
     - title : "Julias Carlie"
