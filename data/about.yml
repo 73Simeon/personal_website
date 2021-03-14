@@ -21,17 +21,21 @@ team:
   enable: true
   title : "My Team"
   team_member:
-    - title : "ZONGO Simeon"
-      image : "images/team/Imga4.png"
-      designation : "Project Manager"
+    - title : "Jeremie NANA"
+      image : "images/team/jere.JPG"
+      designation : "Back-end Developer"
       
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
+    - title : "Emmanuel YARO"
+      image : "images/team/emma.JPG"
+      designation : "Back-end Developer"
       
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+    - title : "Ives Patrick YANOGO"
+      image : "images/team/patri.JPG"
+      designation : "Designer and Front-end Developer"
+      
+    - title : "Giovanni BAZIE"
+      image : "images/team/geova.JPG"
+      designation : "Designer and Front-end Developer"
 
 
 # client logo slider
