@@ -33,10 +33,6 @@ team:
       image : "images/team/patri.JPG"
       designation : "Front-end Developper"
       
-    - title : "Bazie Ibsen Giovanni"
-      image : "images/team/geova.JPG"
-      designation : "Front-end Developper"
-
 # client logo slider
 clients_logo_slider:
   enable : true
