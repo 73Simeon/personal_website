@@ -87,7 +87,7 @@ service:
   item:
     - title : "Card Design"
       icon : "ti-palette"
-      content : "Disign professional Card as (visited, marriage), logo Design, flyer and Video editing (Animation)"
+      content : "Disign professional Card as (visite, marriage), logo Design, flyer and Video editing (Animation)"
       highlighted : false
 
     - title : "Concepion Website"

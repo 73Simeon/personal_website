@@ -12,7 +12,7 @@ params:
   cookies:
     enable: yes
     expire_days: 2
-  copyright: Copyright &seymond; 2020 a theme by [gethugothemes](https://gethugothemes.com)
+  copyright: Copyright &seymond 2021 
   description: This is meta description
   email: zongowsimeon@gmail.com
   google_analytics_id: ''
@@ -20,7 +20,7 @@ params:
   logo: ''
   map:
     enable: yes
-    gmap_api: https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
+    gmap_api: "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
@@ -48,7 +48,7 @@ params:
       icon: ti-linkedin
     - URL: 'https:www.twitter.com/@zongo_simeon'
       icon: ti-twitter-alt
-  theme_color: '#f4935e'
+  theme_color: '#194ab8'
 menu:
   main:
     - URL: about
@@ -58,7 +58,7 @@ menu:
       name: Blog
       weight: 2
     - URL: portfolio
-      name: Knowledge
+      name: Portfolio
       weight: 3
     - URL: contact
       name: Contact
