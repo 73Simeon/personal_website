@@ -20,7 +20,7 @@ params:
   logo: ''
   map:
     enable: no
-    gmap_api: "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+    gmap_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDTkEH5TA2gqIYi3f3wESOQIc9JNL3AId4;types=(cities)AIzaSyDTkEH5TA2gqIYi3f3wESOQIc9JNL3AId4;libraries=placesAIzaSyDTkEH5TA2gqIYi3f3wESOQIc9JNL3AId4;language=en"
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
