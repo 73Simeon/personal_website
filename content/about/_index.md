@@ -3,7 +3,7 @@ title: "About"
 author_signature: images/about/signature.png
 description: This is meta description.
 draft: no
-author_image: images/about/mophoto.png
+author_image: images/about/identite.png
 ---
 ### Biogragrphie
 
