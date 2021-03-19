@@ -16,7 +16,7 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
+    - title : "Web Design & Infography"
       progress : "75%"
       color : "#fdb157"
       
@@ -24,61 +24,50 @@ skill:
       progress : "60%"
       color : "#9473e6"
       
-    - title : "PhotoShop Illustrator"
-      progress : "80%"
-      color : "#bdecf6"
-      
-    - title : "Mobile App with Kivy "
-      progress : "50%"
+    - title : "Kivy Module"
+      progress : "60%"
       color : "#ffbcaa"
       
-    - title : "Data Analization with Python"
+    - title : "Data Analizing"
       progress : "70%"
       color : "#bdecf6"
       
-    - title : "Microsoft Office"
-      progress : "80%"
-      color : "#bdecf6"
 # experience
 experience:
-  enable : true
+  enable : false
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
       title : "Designer During Intership"
       company : "Yamba Digital Hub"
-      duration : "Jun 2020 - September 2020"
+      duration : "Jun 2020 - Sep 2020"
       
     - logo : "images/experience/icon-2.png"
       title : "Design Maquette of 'Cheferrie du Faso' website "
       company : "Yamba Digital Hub"
-      duration : "Jun 2020 - September 2020"
+      duration : "Jun 2020 - Sep 2020"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Wed and Mobile App developer"
+      company : "Burkina Institute of Technology"
+      duration : "Sep 2020 - Present"
 
 # education
 education:
-  enable : false
-  title : "Education"
+  enable :true
+  title : "School Career"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Bachelor of Science"
+      year : "2021"
+      academy : "Burkina Institute of Technology"
+  
+    - title : "Higher Secondary Certificat 'Baccalaureat'"
+      year : "2018"
+      academy : "Provincial Lycee of Koudougou"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Secondary School Certificate 'BEPC'"
+      year : "2014"
+      academy : "Departemental Lycee of Sigle"
 
 # service
 service:

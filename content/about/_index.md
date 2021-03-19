@@ -13,6 +13,5 @@ and back end development. Experienced with all stages of the development cycle f
 ### Hobbies
 I am really really passionate in programming especially with **python**.
 I like play football, follow Tv march. My best club that i like is Real Madrid and CR7 is my Best player that i imitate when i am paying.
-I am yet travel in Ivory Cost many time. I like my country ***Burkina Faso***. 
-My best dream is to develop my country in IT domain. I am avdvanced in english and frensh speaking.
+I am yet travel in Ivory Cost many time. I like my country ***Burkina Faso***.I am avdvanced in english and frensh speaking.
 
